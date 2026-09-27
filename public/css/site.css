@@ -1,0 +1,246 @@
+:root {
+  --paper: #f6f1e8;
+  --paper-strong: #fffdf8;
+  --ink: #2c2416;
+  --muted: #6b5e4e;
+  --line: #e4d8c4;
+  --burgundy: #7b2d26;
+  --burgundy-dark: #5c211c;
+  --gold: #c4a574;
+}
+
+body {
+  color: var(--ink);
+  background: var(--paper);
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Libre Baskerville", "Palatino Linotype", Palatino, Georgia, serif;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+a {
+  color: var(--burgundy);
+}
+
+a:hover {
+  color: var(--burgundy-dark);
+}
+
+.container {
+  padding-bottom: 28px;
+}
+
+.site-header {
+  border-bottom: 3px solid var(--burgundy);
+  padding: 18px 0 8px;
+  margin-bottom: 8px;
+}
+
+.site-brand {
+  margin-bottom: 8px;
+  font-size: 2.8rem;
+}
+
+.site-brand a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.site-brand a:hover {
+  color: var(--burgundy);
+}
+
+.site-tagline {
+  color: var(--muted);
+  margin-top: -6px;
+  margin-bottom: 12px;
+}
+
+.button {
+  margin-right: 8px;
+  margin-bottom: 8px;
+  border-color: var(--line);
+  color: var(--ink);
+}
+
+.button:hover,
+.button.router-link-active {
+  border-color: var(--burgundy);
+  color: var(--burgundy);
+}
+
+.button.router-link-exact-active,
+.button-primary {
+  background: var(--burgundy);
+  border-color: var(--burgundy);
+  color: #fff;
+}
+
+.button.router-link-exact-active:hover,
+.button-primary:hover {
+  background: var(--burgundy-dark);
+  border-color: var(--burgundy-dark);
+  color: #fff;
+}
+
+.footer {
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+  color: var(--muted);
+  font-size: 1.3rem;
+}
+
+img.u-max-full-width,
+.cover-image {
+  border: 1px solid var(--line);
+  background: #f3eee4;
+  display: block;
+}
+
+form {
+  margin-bottom: 18px;
+}
+
+input[type="search"],
+input[type="text"] {
+  background: var(--paper-strong);
+  border-color: var(--line);
+}
+
+.cover-placeholder {
+  min-height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #efe6d6;
+  border: 1px solid var(--line);
+  color: var(--muted);
+  text-align: center;
+  padding: 12px;
+}
+
+.book-meta {
+  color: var(--muted);
+}
+
+.pagination {
+  margin-top: 18px;
+  margin-bottom: 10px;
+}
+
+.pagination-meta {
+  display: inline-block;
+  margin-left: 8px;
+  color: var(--muted);
+}
+
+.hierarchy {
+  color: var(--muted);
+  font-size: 1.3rem;
+  background: var(--paper-strong);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--gold);
+  padding: 8px 12px;
+  margin-top: 10px;
+}
+
+.stat-box,
+.family-card {
+  background: var(--paper-strong);
+  border: 1px solid var(--line);
+  padding: 14px 16px 8px;
+  margin-bottom: 16px;
+  min-height: 180px;
+}
+
+.book-list,
+.book-list-ordered {
+  list-style: none;
+  margin-left: 0;
+}
+
+.book-card {
+  display: flex;
+  gap: 14px;
+  background: var(--paper-strong);
+  border: 1px solid var(--line);
+  padding: 10px 12px;
+  margin-bottom: 10px;
+}
+
+.book-card-cover,
+.book-card-fallback {
+  width: 64px;
+  height: 92px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  background: #efe6d6;
+}
+
+.book-card-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--muted);
+  font-size: 1.1rem;
+  text-align: center;
+  padding: 4px;
+}
+
+.book-card-title {
+  font-family: "Libre Baskerville", Georgia, serif;
+  font-size: 1.7rem;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.book-card-meta {
+  color: var(--muted);
+  margin: 0;
+}
+
+.fact-box {
+  background: var(--paper-strong);
+  border: 1px solid var(--line);
+  padding: 8px 10px;
+  margin-bottom: 10px;
+}
+
+.fact-label {
+  display: block;
+  color: var(--muted);
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.synopsis {
+  background: var(--paper-strong);
+  border: 1px solid var(--line);
+  padding: 12px 14px;
+}
+
+.neighbor-nav {
+  margin-top: 16px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.genre-link-list {
+  margin-bottom: 0;
+}
+
+.cms-alert {
+  background: #fff4e5;
+  border: 1px solid var(--gold);
+  border-left: 4px solid var(--burgundy);
+  padding: 10px 12px;
+}

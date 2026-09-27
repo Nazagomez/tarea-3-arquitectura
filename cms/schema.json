@@ -1,0 +1,82 @@
+{
+  "familias": {
+    "name": "familias",
+    "label": "Familias",
+    "icon": "folder",
+    "singleton": false,
+    "visibility": "private",
+    "slug_source": "nombre",
+    "fields": {
+      "nombre": { "type": "text", "label": "Nombre", "required": true },
+      "descripcion": { "type": "textarea", "label": "Descripción" }
+    }
+  },
+  "generos": {
+    "name": "generos",
+    "label": "Géneros",
+    "icon": "tag",
+    "singleton": false,
+    "visibility": "private",
+    "slug_source": "nombre",
+    "fields": {
+      "nombre": { "type": "text", "label": "Nombre", "required": true },
+      "descripcion": { "type": "textarea", "label": "Descripción" },
+      "familia": { "type": "relation", "label": "Familia", "target": "familias", "multiple": false, "required": true }
+    }
+  },
+  "autores": {
+    "name": "autores",
+    "label": "Autores",
+    "icon": "user",
+    "singleton": false,
+    "visibility": "private",
+    "slug_source": "nombre",
+    "fields": {
+      "nombre": { "type": "text", "label": "Nombre", "required": true },
+      "nacionalidad": { "type": "text", "label": "Nacionalidad" },
+      "biografia": { "type": "textarea", "label": "Biografía" },
+      "imagen": { "type": "text", "label": "Imagen (URL)" }
+    }
+  },
+  "editoriales": {
+    "name": "editoriales",
+    "label": "Editoriales",
+    "icon": "building",
+    "singleton": false,
+    "visibility": "private",
+    "slug_source": "nombre",
+    "fields": {
+      "nombre": { "type": "text", "label": "Nombre", "required": true },
+      "pais": { "type": "text", "label": "País" }
+    }
+  },
+  "libros": {
+    "name": "libros",
+    "label": "Libros",
+    "icon": "book",
+    "singleton": false,
+    "visibility": "private",
+    "slug_source": "titulo",
+    "fields": {
+      "num": { "type": "number", "label": "Número BBE", "required": true },
+      "titulo": { "type": "text", "label": "Título", "required": true },
+      "serie": { "type": "text", "label": "Serie" },
+      "calificacion": { "type": "number", "label": "Calificación" },
+      "descripcion": { "type": "textarea", "label": "Sinopsis" },
+      "idioma": { "type": "text", "label": "Idioma" },
+      "isbn": { "type": "text", "label": "ISBN" },
+      "paginas": { "type": "number", "label": "Páginas" },
+      "anio": { "type": "number", "label": "Año de publicación" },
+      "premios": { "type": "textarea", "label": "Premios" },
+      "portada": { "type": "text", "label": "Portada (URL de imagen)" },
+      "precio": { "type": "text", "label": "Precio" },
+      "puntuacion_bbe": { "type": "number", "label": "Puntaje BBE" },
+      "votos_bbe": { "type": "number", "label": "Votos BBE" },
+      "resenas": { "type": "number", "label": "Reseñas" },
+      "aprobacion": { "type": "number", "label": "Aprobación (%)" },
+      "autor": { "type": "relation", "label": "Autor", "target": "autores", "multiple": false, "required": true },
+      "editorial": { "type": "relation", "label": "Editorial", "target": "editoriales", "multiple": false, "required": true },
+      "genero": { "type": "relation", "label": "Género", "target": "generos", "multiple": false, "required": true }
+    }
+  }
+}

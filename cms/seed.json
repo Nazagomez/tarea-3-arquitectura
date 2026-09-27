@@ -1,0 +1,1738 @@
+{
+  "familias": [
+    {
+      "slug": "ficcion",
+      "title": "Ficción",
+      "data": {
+        "nombre": "Ficción",
+        "descripcion": "Novelas y relatos organizados por género literario."
+      }
+    },
+    {
+      "slug": "no-ficcion",
+      "title": "No ficción",
+      "data": {
+        "nombre": "No ficción",
+        "descripcion": "Ensayo, historia, ciencia y otras obras basadas en hechos."
+      }
+    },
+    {
+      "slug": "otros",
+      "title": "Otros",
+      "data": {
+        "nombre": "Otros",
+        "descripcion": "Poesía, teatro, cómic e infantil, fuera de la narrativa adulta."
+      }
+    }
+  ],
+  "generos": [
+    {
+      "slug": "aventura",
+      "title": "Aventura",
+      "data": {
+        "nombre": "Aventura",
+        "descripcion": "Libros clasificados como aventura.",
+        "familia": "ficcion"
+      }
+    },
+    {
+      "slug": "ciencia-ficcion",
+      "title": "Ciencia ficción",
+      "data": {
+        "nombre": "Ciencia ficción",
+        "descripcion": "Libros clasificados como ciencia ficción.",
+        "familia": "ficcion"
+      }
+    },
+    {
+      "slug": "clasicos",
+      "title": "Clásicos",
+      "data": {
+        "nombre": "Clásicos",
+        "descripcion": "Libros clasificados como clásicos.",
+        "familia": "ficcion"
+      }
+    },
+    {
+      "slug": "contemporanea",
+      "title": "Contemporánea",
+      "data": {
+        "nombre": "Contemporánea",
+        "descripcion": "Libros clasificados como contemporánea.",
+        "familia": "ficcion"
+      }
+    },
+    {
+      "slug": "fantasia",
+      "title": "Fantasía",
+      "data": {
+        "nombre": "Fantasía",
+        "descripcion": "Libros clasificados como fantasía.",
+        "familia": "ficcion"
+      }
+    },
+    {
+      "slug": "historica",
+      "title": "Histórica",
+      "data": {
+        "nombre": "Histórica",
+        "descripcion": "Libros clasificados como histórica.",
+        "familia": "ficcion"
+      }
+    },
+    {
+      "slug": "juvenil",
+      "title": "Juvenil",
+      "data": {
+        "nombre": "Juvenil",
+        "descripcion": "Libros clasificados como juvenil.",
+        "familia": "ficcion"
+      }
+    },
+    {
+      "slug": "misterio-thriller",
+      "title": "Misterio y thriller",
+      "data": {
+        "nombre": "Misterio y thriller",
+        "descripcion": "Libros clasificados como misterio y thriller.",
+        "familia": "ficcion"
+      }
+    },
+    {
+      "slug": "romance",
+      "title": "Romance",
+      "data": {
+        "nombre": "Romance",
+        "descripcion": "Libros clasificados como romance.",
+        "familia": "ficcion"
+      }
+    },
+    {
+      "slug": "terror",
+      "title": "Terror",
+      "data": {
+        "nombre": "Terror",
+        "descripcion": "Libros clasificados como terror.",
+        "familia": "ficcion"
+      }
+    },
+    {
+      "slug": "autoayuda",
+      "title": "Autoayuda",
+      "data": {
+        "nombre": "Autoayuda",
+        "descripcion": "Libros clasificados como autoayuda.",
+        "familia": "no-ficcion"
+      }
+    },
+    {
+      "slug": "biografia",
+      "title": "Biografía y memorias",
+      "data": {
+        "nombre": "Biografía y memorias",
+        "descripcion": "Libros clasificados como biografía y memorias.",
+        "familia": "no-ficcion"
+      }
+    },
+    {
+      "slug": "ciencia",
+      "title": "Ciencia y tecnología",
+      "data": {
+        "nombre": "Ciencia y tecnología",
+        "descripcion": "Libros clasificados como ciencia y tecnología.",
+        "familia": "no-ficcion"
+      }
+    },
+    {
+      "slug": "filosofia-religion",
+      "title": "Filosofía y religión",
+      "data": {
+        "nombre": "Filosofía y religión",
+        "descripcion": "Libros clasificados como filosofía y religión.",
+        "familia": "no-ficcion"
+      }
+    },
+    {
+      "slug": "historia",
+      "title": "Historia",
+      "data": {
+        "nombre": "Historia",
+        "descripcion": "Libros clasificados como historia.",
+        "familia": "no-ficcion"
+      }
+    },
+    {
+      "slug": "comics",
+      "title": "Cómics y novela gráfica",
+      "data": {
+        "nombre": "Cómics y novela gráfica",
+        "descripcion": "Libros clasificados como cómics y novela gráfica.",
+        "familia": "otros"
+      }
+    },
+    {
+      "slug": "infantil",
+      "title": "Infantil",
+      "data": {
+        "nombre": "Infantil",
+        "descripcion": "Libros clasificados como infantil.",
+        "familia": "otros"
+      }
+    },
+    {
+      "slug": "poesia-teatro",
+      "title": "Poesía y teatro",
+      "data": {
+        "nombre": "Poesía y teatro",
+        "descripcion": "Libros clasificados como poesía y teatro.",
+        "familia": "otros"
+      }
+    }
+  ],
+  "autores": [
+    {
+      "slug": "gregory-david-roberts",
+      "title": "Gregory David Roberts",
+      "data": {
+        "nombre": "Gregory David Roberts",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Shantaram.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "jon-krakauer",
+      "title": "Jon Krakauer",
+      "data": {
+        "nombre": "Jon Krakauer",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Into Thin Air: A Personal Account of the Mount Everest Disaster.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "douglas-adams",
+      "title": "Douglas Adams",
+      "data": {
+        "nombre": "Douglas Adams",
+        "nacionalidad": "",
+        "biografia": "Humorista y escritor británico, autor de The Hitchhiker's Guide to the Galaxy.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "orson-scott-card",
+      "title": "Orson Scott Card",
+      "data": {
+        "nombre": "Orson Scott Card",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Ender's Game.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "harper-lee",
+      "title": "Harper Lee",
+      "data": {
+        "nombre": "Harper Lee",
+        "nacionalidad": "",
+        "biografia": "Novelista estadounidense, autora de To Kill a Mockingbird.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "jane-austen",
+      "title": "Jane Austen",
+      "data": {
+        "nombre": "Jane Austen",
+        "nacionalidad": "",
+        "biografia": "Novelista inglesa de la Regencia, autora de Pride and Prejudice.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "jodi-picoult",
+      "title": "Jodi Picoult",
+      "data": {
+        "nombre": "Jodi Picoult",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de My Sister's Keeper.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "chuck-palahniuk",
+      "title": "Chuck Palahniuk",
+      "data": {
+        "nombre": "Chuck Palahniuk",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Fight Club.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "j-k-rowling",
+      "title": "J.K. Rowling",
+      "data": {
+        "nombre": "J.K. Rowling",
+        "nacionalidad": "",
+        "biografia": "Autora británica de la saga Harry Potter.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "c-s-lewis",
+      "title": "C.S. Lewis",
+      "data": {
+        "nombre": "C.S. Lewis",
+        "nacionalidad": "",
+        "biografia": "Escritor e intelectual británico, autor de The Chronicles of Narnia.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "markus-zusak",
+      "title": "Markus Zusak",
+      "data": {
+        "nombre": "Markus Zusak",
+        "nacionalidad": "",
+        "biografia": "Escritor australiano, autor de The Book Thief.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "arthur-golden",
+      "title": "Arthur Golden",
+      "data": {
+        "nombre": "Arthur Golden",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Memoirs of a Geisha.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "suzanne-collins",
+      "title": "Suzanne Collins",
+      "data": {
+        "nombre": "Suzanne Collins",
+        "nacionalidad": "",
+        "biografia": "Escritora estadounidense conocida por la trilogía The Hunger Games.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "stephenie-meyer",
+      "title": "Stephenie Meyer",
+      "data": {
+        "nombre": "Stephenie Meyer",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Twilight.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "dan-brown",
+      "title": "Dan Brown",
+      "data": {
+        "nombre": "Dan Brown",
+        "nacionalidad": "",
+        "biografia": "Novelista estadounidense de thrillers, autor de The Da Vinci Code.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "alice-sebold",
+      "title": "Alice Sebold",
+      "data": {
+        "nombre": "Alice Sebold",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de The Lovely Bones.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "audrey-niffenegger",
+      "title": "Audrey Niffenegger",
+      "data": {
+        "nombre": "Audrey Niffenegger",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de The Time Traveler's Wife.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "nicholas-sparks",
+      "title": "Nicholas Sparks",
+      "data": {
+        "nombre": "Nicholas Sparks",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de The Notebook.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "stephen-king",
+      "title": "Stephen King",
+      "data": {
+        "nombre": "Stephen King",
+        "nacionalidad": "",
+        "biografia": "Escritor estadounidense de terror, suspense y fantasía.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "anne-rice",
+      "title": "Anne Rice",
+      "data": {
+        "nombre": "Anne Rice",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Interview with the Vampire.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "viktor-e-frankl",
+      "title": "Viktor E. Frankl",
+      "data": {
+        "nombre": "Viktor E. Frankl",
+        "nacionalidad": "",
+        "biografia": "Neurólogo y psiquiatra austriaco, autor de Man's Search for Meaning.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "rhonda-byrne",
+      "title": "Rhonda Byrne",
+      "data": {
+        "nombre": "Rhonda Byrne",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de The Secret.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "frank-mccourt",
+      "title": "Frank McCourt",
+      "data": {
+        "nombre": "Frank McCourt",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Angela's Ashes.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "mitch-albom",
+      "title": "Mitch Albom",
+      "data": {
+        "nombre": "Mitch Albom",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Tuesdays with Morrie.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "bill-bryson",
+      "title": "Bill Bryson",
+      "data": {
+        "nombre": "Bill Bryson",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de A Short History of Nearly Everything.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "charles-darwin",
+      "title": "Charles Darwin",
+      "data": {
+        "nombre": "Charles Darwin",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de The Origin of Species.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "william-paul-young",
+      "title": "William Paul Young",
+      "data": {
+        "nombre": "William Paul Young",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de The Shack.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "jostein-gaarder",
+      "title": "Jostein Gaarder",
+      "data": {
+        "nombre": "Jostein Gaarder",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Sophie's World.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "thomas-keneally",
+      "title": "Thomas Keneally",
+      "data": {
+        "nombre": "Thomas Keneally",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Schindler's List.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "tim-butcher",
+      "title": "Tim Butcher",
+      "data": {
+        "nombre": "Tim Butcher",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Blood River: A Journey to Africa's Broken Heart.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "alan-moore",
+      "title": "Alan Moore",
+      "data": {
+        "nombre": "Alan Moore",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Watchmen.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "bill-watterson",
+      "title": "Bill Watterson",
+      "data": {
+        "nombre": "Bill Watterson",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de The Complete Calvin and Hobbes.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "shel-silverstein",
+      "title": "Shel Silverstein",
+      "data": {
+        "nombre": "Shel Silverstein",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de The Giving Tree.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "maurice-sendak",
+      "title": "Maurice Sendak",
+      "data": {
+        "nombre": "Maurice Sendak",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de Where the Wild Things Are.",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "reduced-shakespeare-company",
+      "title": "Reduced Shakespeare Company",
+      "data": {
+        "nombre": "Reduced Shakespeare Company",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de The Compleat Works of Wllm Shkspr (abridged).",
+        "imagen": ""
+      }
+    },
+    {
+      "slug": "kahlil-gibran",
+      "title": "Kahlil Gibran",
+      "data": {
+        "nombre": "Kahlil Gibran",
+        "nacionalidad": "",
+        "biografia": "Autor o autora de The Prophet.",
+        "imagen": ""
+      }
+    }
+  ],
+  "editoriales": [
+    {
+      "slug": "scribe",
+      "title": "Scribe",
+      "data": {
+        "nombre": "Scribe",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "anchor-books",
+      "title": "Anchor Books",
+      "data": {
+        "nombre": "Anchor Books",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "del-rey",
+      "title": "Del Rey",
+      "data": {
+        "nombre": "Del Rey",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "macmillan-audio",
+      "title": "Macmillan Audio",
+      "data": {
+        "nombre": "Macmillan Audio",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "harper-perennial-modern-classics",
+      "title": "Harper Perennial Modern Classics",
+      "data": {
+        "nombre": "Harper Perennial Modern Classics",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "modern-library",
+      "title": "Modern Library",
+      "data": {
+        "nombre": "Modern Library",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "washington-square-press",
+      "title": "Washington Square Press",
+      "data": {
+        "nombre": "Washington Square Press",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "w-w-norton-company",
+      "title": "W. W. Norton Company",
+      "data": {
+        "nombre": "W. W. Norton Company",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "scholastic-inc",
+      "title": "Scholastic Inc.",
+      "data": {
+        "nombre": "Scholastic Inc.",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "harpercollins",
+      "title": "HarperCollins",
+      "data": {
+        "nombre": "HarperCollins",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "alfred-a-knopf",
+      "title": "Alfred A. Knopf",
+      "data": {
+        "nombre": "Alfred A. Knopf",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "vintage-books-usa",
+      "title": "Vintage Books USA",
+      "data": {
+        "nombre": "Vintage Books USA",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "scholastic-press",
+      "title": "Scholastic Press",
+      "data": {
+        "nombre": "Scholastic Press",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "little-brown-and-company",
+      "title": "Little, Brown and Company",
+      "data": {
+        "nombre": "Little, Brown and Company",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "anchor",
+      "title": "Anchor",
+      "data": {
+        "nombre": "Anchor",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "zola-books",
+      "title": "Zola Books",
+      "data": {
+        "nombre": "Zola Books",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "grand-central-publishing",
+      "title": "Grand Central Publishing",
+      "data": {
+        "nombre": "Grand Central Publishing",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "doubleday-books",
+      "title": "Doubleday Books",
+      "data": {
+        "nombre": "Doubleday Books",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "ballantine-books",
+      "title": "Ballantine Books",
+      "data": {
+        "nombre": "Ballantine Books",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "beacon-press",
+      "title": "Beacon Press",
+      "data": {
+        "nombre": "Beacon Press",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "atria-books",
+      "title": "Atria Books",
+      "data": {
+        "nombre": "Atria Books",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "harper-perennial",
+      "title": "Harper Perennial",
+      "data": {
+        "nombre": "Harper Perennial",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "warner",
+      "title": "Warner",
+      "data": {
+        "nombre": "Warner",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "broadway-books",
+      "title": "Broadway Books",
+      "data": {
+        "nombre": "Broadway Books",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "castle-books",
+      "title": "Castle Books",
+      "data": {
+        "nombre": "Castle Books",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "windblown-media",
+      "title": "Windblown Media",
+      "data": {
+        "nombre": "Windblown Media",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "phoenix",
+      "title": "Phoenix",
+      "data": {
+        "nombre": "Phoenix",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "sceptre",
+      "title": "Sceptre",
+      "data": {
+        "nombre": "Sceptre",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "vintage",
+      "title": "Vintage",
+      "data": {
+        "nombre": "Vintage",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "dc-comics",
+      "title": "DC Comics",
+      "data": {
+        "nombre": "DC Comics",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "andrews-mcmeel-publishing",
+      "title": "Andrews McMeel Publishing",
+      "data": {
+        "nombre": "Andrews McMeel Publishing",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "harpercollins-publishers",
+      "title": "HarperCollins Publishers",
+      "data": {
+        "nombre": "HarperCollins Publishers",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "red-fox",
+      "title": "Red Fox",
+      "data": {
+        "nombre": "Red Fox",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "applause-books",
+      "title": "Applause Books",
+      "data": {
+        "nombre": "Applause Books",
+        "pais": ""
+      }
+    },
+    {
+      "slug": "rupa-co",
+      "title": "Rupa & Co",
+      "data": {
+        "nombre": "Rupa & Co",
+        "pais": ""
+      }
+    }
+  ],
+  "libros": [
+    {
+      "slug": "shantaram",
+      "title": "Shantaram",
+      "data": {
+        "num": 452,
+        "titulo": "Shantaram",
+        "serie": "Shantaram #1",
+        "calificacion": 4.25,
+        "descripcion": "\"It took me a long time and most of the world to learn what I know about love and fate and the choices we make, but the heart of it came to me in an instant, while I was chained to a wall and being tortured.\"So begins this epic, mesmerizing first novel set in the underworld of contemporary Bombay. Shantaram is narrated by Lin, an escaped convict with a false passport who flees maximum security prison in Australia for the teeming streets of a city where he can disappear.Accompanied by his guide and faithful friend, Prabaker, the two enter Bombay's hidden society of beggars and gangsters, prosti",
+        "idioma": "English",
+        "isbn": "9781920769208",
+        "paginas": 936,
+        "anio": 0,
+        "premios": "Commonwealth Writers' Prize Nominee for Best First Book (the Pacific Region) (2004)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333482282l/33600.jpg",
+        "precio": "5.97",
+        "puntuacion_bbe": 22250,
+        "votos_bbe": 253,
+        "resenas": 167687,
+        "aprobacion": 94,
+        "autor": "gregory-david-roberts",
+        "editorial": "scribe",
+        "genero": "aventura"
+      }
+    },
+    {
+      "slug": "into-thin-air-a-personal-account-of-the-mount-everest-disaster",
+      "title": "Into Thin Air: A Personal Account of the Mount Everest Disaster",
+      "data": {
+        "num": 551,
+        "titulo": "Into Thin Air: A Personal Account of the Mount Everest Disaster",
+        "serie": "",
+        "calificacion": 4.18,
+        "descripcion": "A bank of clouds was assembling on the not-so-distant horizon, but journalist-mountaineer Jon Krakauer, standing on the summit of Mt. Everest, saw nothing that \"suggested that a murderous storm was bearing down.\" He was wrong. The storm, which claimed five lives and left countless more--including Krakauer's--in guilt-ridden disarray, would also provide the impetus for Into Thin Air, Krakauer's epic account of the May 1996 disaster.",
+        "idioma": "English",
+        "isbn": "9780385494786",
+        "paginas": 368,
+        "anio": 0,
+        "premios": "Pulitzer Prize Nominee for General Nonfiction (1998); ALA Alex Award (1998); National Book Critics Circle Award Nominee for General Nonfiction (1997); Boardman Tasker Prize Nominee for Mountain Literature (1997)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463384482l/1898.jpg",
+        "precio": "4.01",
+        "puntuacion_bbe": 15858,
+        "votos_bbe": 224,
+        "resenas": 395109,
+        "aprobacion": 95,
+        "autor": "jon-krakauer",
+        "editorial": "anchor-books",
+        "genero": "aventura"
+      }
+    },
+    {
+      "slug": "the-hitchhiker-s-guide-to-the-galaxy",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "data": {
+        "num": 12,
+        "titulo": "The Hitchhiker's Guide to the Galaxy",
+        "serie": "The Hitchhiker's Guide to the Galaxy #1",
+        "calificacion": 4.22,
+        "descripcion": "Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.Together this dynamic pair begin a journey through space aided by quotes from The Hitchhiker's Guide (\"A towel is about the most massively useful thing an interstellar hitchhiker can have\") and a galaxy-full of fellow travelers: Zaphod Beeblebrox—the two-headed, three-armed ex-hippie and totally out-to-lunch",
+        "idioma": "English",
+        "isbn": "9999999999999",
+        "paginas": 193,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162.jpg",
+        "precio": "",
+        "puntuacion_bbe": 1063601,
+        "votos_bbe": 10996,
+        "resenas": 1436325,
+        "aprobacion": 94,
+        "autor": "douglas-adams",
+        "editorial": "del-rey",
+        "genero": "ciencia-ficcion"
+      }
+    },
+    {
+      "slug": "ender-s-game",
+      "title": "Ender's Game",
+      "data": {
+        "num": 30,
+        "titulo": "Ender's Game",
+        "serie": "Ender's Saga #1",
+        "calificacion": 4.3,
+        "descripcion": "Andrew \"Ender\" Wiggin thinks he is playing computer simulated war games; he is, in fact, engaged in something far more desperate. The result of genetic experimentation, Ender may be the military genius Earth desperately needs in a war against an alien enemy seeking to destroy all human life. The only way to find out is to throw Ender into ever harsher training, to chip away and find the diamond inside, or destroy him utterly. Ender Wiggin is six years old when it begins. He will grow up fast.But Ender is not the only result of the experiment. The war with the Buggers has been raging for a hund",
+        "idioma": "English",
+        "isbn": "9780812550702",
+        "paginas": 324,
+        "anio": 0,
+        "premios": "Hugo Award for Best Novel (1986); Nebula Award for Best Novel (1985); Nébula (1985); Margaret A. Edwards Award (2008)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802.jpg",
+        "precio": "4.6",
+        "puntuacion_bbe": 720651,
+        "votos_bbe": 7515,
+        "resenas": 1131303,
+        "aprobacion": 95,
+        "autor": "orson-scott-card",
+        "editorial": "macmillan-audio",
+        "genero": "ciencia-ficcion"
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird",
+      "title": "To Kill a Mockingbird",
+      "data": {
+        "num": 3,
+        "titulo": "To Kill a Mockingbird",
+        "serie": "To Kill a Mockingbird",
+        "calificacion": 4.28,
+        "descripcion": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into",
+        "idioma": "English",
+        "isbn": "9999999999999",
+        "paginas": 324,
+        "anio": 0,
+        "premios": "Pulitzer Prize for Fiction (1961); Audie Award for Classic (2007); National Book Award Finalist for Fiction (1961); Alabama Author Award for Fiction (1961)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657.jpg",
+        "precio": "",
+        "puntuacion_bbe": 2269402,
+        "votos_bbe": 23328,
+        "resenas": 4501075,
+        "aprobacion": 95,
+        "autor": "harper-lee",
+        "editorial": "harper-perennial-modern-classics",
+        "genero": "clasicos"
+      }
+    },
+    {
+      "slug": "pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "data": {
+        "num": 4,
+        "titulo": "Pride and Prejudice",
+        "serie": "",
+        "calificacion": 4.26,
+        "descripcion": "Alternate cover edition of ISBN 9780679783268Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work \"her own darling child\" and its vivacious heroine, Elizabeth Bennet, \"as delightful a creature as ever appeared in print.\" The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen's radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the m",
+        "idioma": "English",
+        "isbn": "9999999999999",
+        "paginas": 279,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351l/1885.jpg",
+        "precio": "",
+        "puntuacion_bbe": 1983116,
+        "votos_bbe": 20452,
+        "resenas": 2998241,
+        "aprobacion": 94,
+        "autor": "jane-austen",
+        "editorial": "modern-library",
+        "genero": "clasicos"
+      }
+    },
+    {
+      "slug": "my-sister-s-keeper",
+      "title": "My Sister's Keeper",
+      "data": {
+        "num": 76,
+        "titulo": "My Sister's Keeper",
+        "serie": "",
+        "calificacion": 4.08,
+        "descripcion": "Anna is not sick, but she might as well be. By age thirteen, she has undergone countless surgeries, transfusions, and shots so that her older sister, Kate, can somehow fight the leukemia that has plagued her since childhood. The product of preimplantation genetic diagnosis, Anna was conceived as a bone marrow match for Kate—a life and a role that she has never challenged... until now. Like most teenagers, Anna is beginning to question who she truly is. But unlike most teenagers, she has always been defined in terms of her sister—and so Anna makes a decision that for most would be unthinkable, ",
+        "idioma": "English",
+        "isbn": "9780743454537",
+        "paginas": 423,
+        "anio": 0,
+        "premios": "Audie Award for Multi-Voiced Performance (2005); Pennsylvania Young Readers' Choice Award for Young Adults (2007); ALA Alex Award (2005); Lincoln Award (2006)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369504683l/10917.jpg",
+        "precio": "2.76",
+        "puntuacion_bbe": 340746,
+        "votos_bbe": 3751,
+        "resenas": 1056676,
+        "aprobacion": 94,
+        "autor": "jodi-picoult",
+        "editorial": "washington-square-press",
+        "genero": "contemporanea"
+      }
+    },
+    {
+      "slug": "fight-club",
+      "title": "Fight Club",
+      "data": {
+        "num": 131,
+        "titulo": "Fight Club",
+        "serie": "",
+        "calificacion": 4.19,
+        "descripcion": "Chuck Palahniuk showed himself to be his generation’s most visionary satirist in this, his first book. Fight Club’s estranged narrator leaves his lackluster job when he comes under the thrall of Tyler Durden, an enigmatic young man who holds secret after-hours boxing matches in the basement of bars. There, two men fight \"as long as they have to.\" This is a gloriously original work that exposes the darkness at the core of our modern world.",
+        "idioma": "English",
+        "isbn": "9780393355949",
+        "paginas": 218,
+        "anio": 0,
+        "premios": "Oregon Book Award for Fiction (1997)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558216416l/36236124._SY475_.jpg",
+        "precio": "10.16",
+        "puntuacion_bbe": 125348,
+        "votos_bbe": 1445,
+        "resenas": 498931,
+        "aprobacion": 95,
+        "autor": "chuck-palahniuk",
+        "editorial": "w-w-norton-company",
+        "genero": "contemporanea"
+      }
+    },
+    {
+      "slug": "harry-potter-and-the-order-of-the-phoenix",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "data": {
+        "num": 2,
+        "titulo": "Harry Potter and the Order of the Phoenix",
+        "serie": "Harry Potter #5",
+        "calificacion": 4.5,
+        "descripcion": "There is a door at the end of a silent corridor. And it’s haunting Harry Pottter’s dreams. Why else would he be waking in the middle of the night, screaming in terror?Harry has a lot on his mind for this, his fifth year at Hogwarts: a Defense Against the Dark Arts teacher with a personality like poisoned honey; a big surprise on the Gryffindor Quidditch team; and the looming terror of the Ordinary Wizarding Level exams. But all these things pale next to the growing threat of He-Who-Must-Not-Be-Named - a threat that neither the magical government nor the authorities at Hogwarts can stop.As the ",
+        "idioma": "English",
+        "isbn": "9780439358071",
+        "paginas": 870,
+        "anio": 0,
+        "premios": "Bram Stoker Award for Works for Young Readers (2003); Anthony Award for Young Adult (2004); Mythopoeic Fantasy Award for Children's Literature (2008); Audie Award for Audiobook of the Year (2004)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265l/2.jpg",
+        "precio": "7.38",
+        "puntuacion_bbe": 2632233,
+        "votos_bbe": 26923,
+        "resenas": 2507623,
+        "aprobacion": 98,
+        "autor": "j-k-rowling",
+        "editorial": "scholastic-inc",
+        "genero": "fantasia"
+      }
+    },
+    {
+      "slug": "the-chronicles-of-narnia",
+      "title": "The Chronicles of Narnia",
+      "data": {
+        "num": 8,
+        "titulo": "The Chronicles of Narnia",
+        "serie": "The Chronicles of Narnia (Publication Order) #1–7",
+        "calificacion": 4.26,
+        "descripcion": "Journeys to the end of the world, fantastic creatures, and epic battles between good and evil—what more could any reader ask for in one book? The book that has it all is The Lion, the Witch and the Wardrobe, written in 1949 by Clive Staples Lewis. But Lewis did not stop there. Six more books followed, and together they became known as The Chronicles of Narnia.For the past fifty years, The Chronicles of Narnia have transcended the fantasy genre to become part of the canon of classic literature. Each of the seven books is a masterpiece, drawing the reader into a land where magic meets reality, a",
+        "idioma": "English",
+        "isbn": "9999999999999",
+        "paginas": 767,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449868701l/11127._SY475_.jpg",
+        "precio": "",
+        "puntuacion_bbe": 1238556,
+        "votos_bbe": 12949,
+        "resenas": 517740,
+        "aprobacion": 96,
+        "autor": "c-s-lewis",
+        "editorial": "harpercollins",
+        "genero": "fantasia"
+      }
+    },
+    {
+      "slug": "the-book-thief",
+      "title": "The Book Thief",
+      "data": {
+        "num": 6,
+        "titulo": "The Book Thief",
+        "serie": "",
+        "calificacion": 4.37,
+        "descripcion": "Librarian's note: An alternate cover edition can be found hereIt is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.By her brother's graveside, Liesel's life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger's Handbook, left behind there by accident, and it is her first act of book thievery. So begins a love affair with books and words, as Liesel, with the help of her accordian-playing foster father, learns to read. Soon she is stealing books from Nazi book-burnings, the mayor's wife's ",
+        "idioma": "English",
+        "isbn": "9780375831003",
+        "paginas": 552,
+        "anio": 0,
+        "premios": "National Jewish Book Award for Children’s and Young Adult Literature (2006); Book Sense Book of the Year Award for Children's Literature (2007); Buxtehuder Bulle (2008); Sydney Taylor Book Award for Teen Readers (2007)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY475_.jpg",
+        "precio": "3.8",
+        "puntuacion_bbe": 1372809,
+        "votos_bbe": 14168,
+        "resenas": 1834276,
+        "aprobacion": 96,
+        "autor": "markus-zusak",
+        "editorial": "alfred-a-knopf",
+        "genero": "historica"
+      }
+    },
+    {
+      "slug": "memoirs-of-a-geisha",
+      "title": "Memoirs of a Geisha",
+      "data": {
+        "num": 16,
+        "titulo": "Memoirs of a Geisha",
+        "serie": "",
+        "calificacion": 4.12,
+        "descripcion": "A literary sensation and runaway bestseller, this brilliant debut novel presents with seamless authenticity and exquisite lyricism the true confessions of one of Japan's most celebrated geisha.In Memoirs of a Geisha, we enter a world where appearances are paramount; where a girl's virginity is auctioned to the highest bidder; where women are trained to beguile the most powerful men; and where love is scorned as illusion. It is a unique and triumphant work of fiction - at once romantic, erotic, suspenseful - and completely unforgettable.",
+        "idioma": "English",
+        "isbn": "9781400096893",
+        "paginas": 503,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409595968l/929.jpg",
+        "precio": "2.76",
+        "puntuacion_bbe": 862748,
+        "votos_bbe": 8993,
+        "resenas": 1717312,
+        "aprobacion": 95,
+        "autor": "arthur-golden",
+        "editorial": "vintage-books-usa",
+        "genero": "historica"
+      }
+    },
+    {
+      "slug": "the-hunger-games",
+      "title": "The Hunger Games",
+      "data": {
+        "num": 1,
+        "titulo": "The Hunger Games",
+        "serie": "The Hunger Games #1",
+        "calificacion": 4.33,
+        "descripcion": "WINNING MEANS FAME AND FORTUNE.LOSING MEANS CERTAIN DEATH.THE HUNGER GAMES HAVE BEGUN. . . .In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and once girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.Sixteen-year-old Katniss Everdeen regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss ha",
+        "idioma": "English",
+        "isbn": "9780439023481",
+        "paginas": 374,
+        "anio": 0,
+        "premios": "Locus Award Nominee for Best Young Adult Book (2009); Georgia Peach Book Award (2009); Buxtehuder Bulle (2009); Golden Duck Award for Young Adult (Hal Clement Award) (2009)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052.jpg",
+        "precio": "5.09",
+        "puntuacion_bbe": 2993816,
+        "votos_bbe": 30516,
+        "resenas": 6376780,
+        "aprobacion": 96,
+        "autor": "suzanne-collins",
+        "editorial": "scholastic-press",
+        "genero": "juvenil"
+      }
+    },
+    {
+      "slug": "twilight",
+      "title": "Twilight",
+      "data": {
+        "num": 5,
+        "titulo": "Twilight",
+        "serie": "The Twilight Saga #1",
+        "calificacion": 3.6,
+        "descripcion": "About three things I was absolutely positive. First, Edward was a vampire. Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood. And third, I was unconditionally and irrevocably in love with him. Deeply seductive and extraordinarily suspenseful, Twilight is a love story with bite.",
+        "idioma": "English",
+        "isbn": "9780316015844",
+        "paginas": 501,
+        "anio": 0,
+        "premios": "Georgia Peach Book Award (2007); Buxtehuder Bulle (2006); Kentucky Bluegrass Award for 9-12 (2007); Prijs van de Kinder- en Jeugdjury Vlaanderen (2008)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039443l/41865.jpg",
+        "precio": "2.1",
+        "puntuacion_bbe": 1459448,
+        "votos_bbe": 14874,
+        "resenas": 4964519,
+        "aprobacion": 78,
+        "autor": "stephenie-meyer",
+        "editorial": "little-brown-and-company",
+        "genero": "juvenil"
+      }
+    },
+    {
+      "slug": "the-da-vinci-code",
+      "title": "The Da Vinci Code",
+      "data": {
+        "num": 15,
+        "titulo": "The Da Vinci Code",
+        "serie": "Robert Langdon #2",
+        "calificacion": 3.86,
+        "descripcion": "ISBN 9780307277671 moved to this edition.While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.Even more startling, the late curator was involved in the Priory of Sion—a secret society whose",
+        "idioma": "English",
+        "isbn": "9999999999999",
+        "paginas": 489,
+        "anio": 0,
+        "premios": "British Book Award for Book of the Year (2005); Book Sense Book of the Year Award for Adult Fiction (2004); Humo's Gouden Bladwijzer (2004); Zilveren Vingerafdruk (2004)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579621267l/968.jpg",
+        "precio": "",
+        "puntuacion_bbe": 876633,
+        "votos_bbe": 9231,
+        "resenas": 1933446,
+        "aprobacion": 89,
+        "autor": "dan-brown",
+        "editorial": "anchor",
+        "genero": "misterio-thriller"
+      }
+    },
+    {
+      "slug": "the-lovely-bones",
+      "title": "The Lovely Bones",
+      "data": {
+        "num": 49,
+        "titulo": "The Lovely Bones",
+        "serie": "",
+        "calificacion": 3.82,
+        "descripcion": "\"My name was Salmon, like the fish; first name, Susie. I was fourteen when I was murdered on December 6, 1973.\"So begins the story of Susie Salmon, who is adjusting to her new home in heaven, a place that is not at all what she expected, even as she is watching life on earth continue without her -- her friends trading rumors about her disappearance, her killer trying to cover his tracks, her grief-stricken family unraveling. Out of unspeakable tragedy and loss, The Lovely Bones succeeds, miraculously, in building a tale filled with hope, humor, suspense, even joy.",
+        "idioma": "English",
+        "isbn": "9780316166683",
+        "paginas": 372,
+        "anio": 0,
+        "premios": "Bram Stoker Award for Best First Novel (2002); Orange Prize Nominee for Fiction Longlist (2003); British Book Award for Best Read of the Year (2004); Book Sense Book of the Year Award for Adult Fiction (2003)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457810586l/12232938.jpg",
+        "precio": "1.91",
+        "puntuacion_bbe": 510188,
+        "votos_bbe": 5512,
+        "resenas": 2014401,
+        "aprobacion": 89,
+        "autor": "alice-sebold",
+        "editorial": "little-brown-and-company",
+        "genero": "misterio-thriller"
+      }
+    },
+    {
+      "slug": "the-time-traveler-s-wife",
+      "title": "The Time Traveler's Wife",
+      "data": {
+        "num": 37,
+        "titulo": "The Time Traveler's Wife",
+        "serie": "",
+        "calificacion": 3.97,
+        "descripcion": "A funny, often poignant tale of boy meets girl with a twist: what if one of them couldn't stop slipping in and out of time? Highly original and imaginative, this debut novel raises questions about life, love, and the effects of time on relationships.Audrey Niffenegger’s innovative debut, The Time Traveler’s Wife, is the story of Clare, a beautiful art student, and Henry, an adventuresome librarian, who have known each other since Clare was six and Henry was thirty-six, and were married when Clare was twenty-three and Henry thirty-one. Impossible but true, because Henry is one of the first peop",
+        "idioma": "English",
+        "isbn": "9781939126016",
+        "paginas": 500,
+        "anio": 0,
+        "premios": "Arthur C. Clarke Award Nominee (2005); Orange Prize Nominee for Fiction Longlist (2004); British Book Award (2006); John W. Campbell Memorial Award Nominee for Best Science Fiction Novel (2005)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380660571l/18619684.jpg",
+        "precio": "",
+        "puntuacion_bbe": 666335,
+        "votos_bbe": 6969,
+        "resenas": 1573857,
+        "aprobacion": 91,
+        "autor": "audrey-niffenegger",
+        "editorial": "zola-books",
+        "genero": "romance"
+      }
+    },
+    {
+      "slug": "the-notebook",
+      "title": "The Notebook",
+      "data": {
+        "num": 96,
+        "titulo": "The Notebook",
+        "serie": "The Notebook #1",
+        "calificacion": 4.11,
+        "descripcion": "Set amid the austere beauty of the North Carolina coast begins the story of Noah Calhoun, a rural Southerner recently returned from the Second World War. Noah is restoring a plantation home to its former glory, and he is haunted by images of the beautiful girl he met fourteen years earlier, a girl he loved like no other. Unable to find her, yet unwilling to forget the summer they spent together, Noah is content to live with only memories...until she unexpectedly returns to his town to see him once again.Like a puzzle within a puzzle, the story of Noah and Allie is just the beginning. As it unf",
+        "idioma": "English",
+        "isbn": "B000Q67J66",
+        "paginas": 227,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483183484l/33648131._SY475_.jpg",
+        "precio": "",
+        "puntuacion_bbe": 228630,
+        "votos_bbe": 2582,
+        "resenas": 1331152,
+        "aprobacion": 91,
+        "autor": "nicholas-sparks",
+        "editorial": "grand-central-publishing",
+        "genero": "romance"
+      }
+    },
+    {
+      "slug": "the-stand",
+      "title": "The Stand",
+      "data": {
+        "num": 66,
+        "titulo": "The Stand",
+        "serie": "",
+        "calificacion": 4.34,
+        "descripcion": "This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death. And here is the bleak new world of the day after: a world stripped of its institutions and emptied of 99 percent of its people. A world in which a handful of panicky survivors choose sides -- or are chosen.",
+        "idioma": "English",
+        "isbn": "9780385199575",
+        "paginas": 1153,
+        "anio": 0,
+        "premios": "Locus Award Nominee for Best SF Novel (1979); World Fantasy Award Nominee for Best Novel (1979); Gandalf Award Nominee (1979); Balrog Award Nominee for Best Novel (1979) (1980)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1213131305l/149267.jpg",
+        "precio": "8.38",
+        "puntuacion_bbe": 391883,
+        "votos_bbe": 4242,
+        "resenas": 616021,
+        "aprobacion": 96,
+        "autor": "stephen-king",
+        "editorial": "doubleday-books",
+        "genero": "terror"
+      }
+    },
+    {
+      "slug": "interview-with-the-vampire",
+      "title": "Interview with the Vampire",
+      "data": {
+        "num": 99,
+        "titulo": "Interview with the Vampire",
+        "serie": "The Vampire Chronicles #1",
+        "calificacion": 4.0,
+        "descripcion": "This is the story of Louis, as told in his own words, of his journey through mortal and immortal life. Louis recounts how he became a vampire at the hands of the radiant and sinister Lestat and how he became indoctrinated, unwillingly, into the vampire way of life. His story ebbs and flows through the streets of New Orleans, defining crucial moments such as his discovery of the exquisite lost young child Claudia, wanting not to hurt but to comfort her with the last breaths of humanity he has inside. Yet, he makes Claudia a vampire, trapping her womanly passion, will, and intelligence inside th",
+        "idioma": "English",
+        "isbn": "9780345476876",
+        "paginas": 342,
+        "anio": 0,
+        "premios": "British Fantasy Award Nominee for Best Novel (1977)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380631642l/43763.jpg",
+        "precio": "2.66",
+        "puntuacion_bbe": 208415,
+        "votos_bbe": 2388,
+        "resenas": 484530,
+        "aprobacion": 93,
+        "autor": "anne-rice",
+        "editorial": "ballantine-books",
+        "genero": "terror"
+      }
+    },
+    {
+      "slug": "man-s-search-for-meaning",
+      "title": "Man's Search for Meaning",
+      "data": {
+        "num": 240,
+        "titulo": "Man's Search for Meaning",
+        "serie": "",
+        "calificacion": 4.36,
+        "descripcion": "Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Based on his own experience and the stories of his patients, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. At the heart of his theory, known as logotherapy, is a conviction that the primary human drive is not pleasure but the pursuit of what we find meaningful. Man's Search for Meaning has become one of the most influential books in America",
+        "idioma": "English",
+        "isbn": "9780807014295",
+        "paginas": 165,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY475_.jpg",
+        "precio": "7.37",
+        "puntuacion_bbe": 56302,
+        "votos_bbe": 657,
+        "resenas": 400761,
+        "aprobacion": 96,
+        "autor": "viktor-e-frankl",
+        "editorial": "beacon-press",
+        "genero": "autoayuda"
+      }
+    },
+    {
+      "slug": "the-secret",
+      "title": "The Secret",
+      "data": {
+        "num": 611,
+        "titulo": "The Secret",
+        "serie": "The Secret #1",
+        "calificacion": 3.68,
+        "descripcion": "In 2006, a groundbreaking feature-length film revealed the great mystery of the universe—The Secret—and, later that year, Rhonda Byrne followed with a book that became a worldwide bestseller.Fragments of a Great Secret have been found in the oral traditions, in literature, in religions, and philosophies throughout the centuries. For the first time, all the pieces of The Secret come together in an incredible revelation that will be life-transforming for all who experience it.In this book, you’ll learn how to use The Secret in every aspect of your life—money, health, relationships, happiness, an",
+        "idioma": "English",
+        "isbn": "9999999999999",
+        "paginas": 199,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591728338l/52529.jpg",
+        "precio": "",
+        "puntuacion_bbe": 13383,
+        "votos_bbe": 176,
+        "resenas": 349444,
+        "aprobacion": 81,
+        "autor": "rhonda-byrne",
+        "editorial": "atria-books",
+        "genero": "autoayuda"
+      }
+    },
+    {
+      "slug": "angela-s-ashes",
+      "title": "Angela's Ashes",
+      "data": {
+        "num": 87,
+        "titulo": "Angela's Ashes",
+        "serie": "Frank McCourt #1",
+        "calificacion": 4.11,
+        "descripcion": "Imbued on every page with Frank McCourt's astounding humor and compassion. This is a glorious book that bears all the marks of a classic.\"When I look back on my childhood I wonder how I managed to survive at all. It was, of course, a miserable childhood: the happy childhood is hardly worth your while. Worse than the ordinary miserable childhood is the miserable Irish childhood, and worse yet is the miserable Irish Catholic childhood.\" So begins the Pulitzer Prize winning memoir of Frank McCourt, born in Depression-era Brooklyn to recent Irish immigrants and raised in the slums of Limerick, Ire",
+        "idioma": "English",
+        "isbn": "9780007205233",
+        "paginas": 452,
+        "anio": 0,
+        "premios": "Pulitzer Prize for Biography or Autobiography (1997); American Booksellers Book Of The Year  Award for Adult Trade (1997); Audie Award for Nonfiction, Abridged (1997); Los Angeles Times Book Prize for Biography (1996)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348317139l/252577.jpg",
+        "precio": "2.76",
+        "puntuacion_bbe": 290485,
+        "votos_bbe": 3242,
+        "resenas": 539576,
+        "aprobacion": 94,
+        "autor": "frank-mccourt",
+        "editorial": "harper-perennial",
+        "genero": "biografia"
+      }
+    },
+    {
+      "slug": "tuesdays-with-morrie",
+      "title": "Tuesdays with Morrie",
+      "data": {
+        "num": 123,
+        "titulo": "Tuesdays with Morrie",
+        "serie": "",
+        "calificacion": 4.11,
+        "descripcion": "Maybe it was a grandparent, or a teacher or a colleague. Someone older, patient and wise, who understood you when you were young and searching, and gave you sound advice to help you make your way through it. For Mitch Albom, that person was Morrie Schwartz, his college professor from nearly twenty years ago.Maybe, like Mitch, you lost track of this mentor as you made your way, and the insights faded. Wouldn't you like to see that person again, ask the bigger questions that still haunt you? Mitch Albom had that second chance. He rediscovered Morrie in the last months of the older man's life. Kn",
+        "idioma": "English",
+        "isbn": "9780751529814",
+        "paginas": 210,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423763749l/6900.jpg",
+        "precio": "3.27",
+        "puntuacion_bbe": 135685,
+        "votos_bbe": 1553,
+        "resenas": 782188,
+        "aprobacion": 93,
+        "autor": "mitch-albom",
+        "editorial": "warner",
+        "genero": "biografia"
+      }
+    },
+    {
+      "slug": "a-short-history-of-nearly-everything",
+      "title": "A Short History of Nearly Everything",
+      "data": {
+        "num": 338,
+        "titulo": "A Short History of Nearly Everything",
+        "serie": "",
+        "calificacion": 4.2,
+        "descripcion": "In Bryson's biggest book, he confronts his greatest challenge: to understand—and, if possible, answer—the oldest, biggest questions we have posed about the universe and ourselves. Taking as territory everything from the Big Bang to the rise of civilization, Bryson seeks to understand how we got from there being nothing at all to there being us. To that end, he has attached himself to a host of the world’s most advanced (and often obsessed) archaeologists, anthropologists, and mathematicians, travelling to their offices, laboratories, and field camps. He has read (or tried to read) their books,",
+        "idioma": "English",
+        "isbn": "9780767908184",
+        "paginas": 544,
+        "anio": 0,
+        "premios": "Samuel Johnson Prize for Non-Fiction Nominee (2004); EU Descartes Prize for science communication (2005); J. A. Hollon palkinto (2006)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433086293l/21._SY475_.jpg",
+        "precio": "2.17",
+        "puntuacion_bbe": 34290,
+        "votos_bbe": 413,
+        "resenas": 298196,
+        "aprobacion": 94,
+        "autor": "bill-bryson",
+        "editorial": "broadway-books",
+        "genero": "ciencia"
+      }
+    },
+    {
+      "slug": "the-origin-of-species",
+      "title": "The Origin of Species",
+      "data": {
+        "num": 411,
+        "titulo": "The Origin of Species",
+        "serie": "",
+        "calificacion": 3.98,
+        "descripcion": "Darwin's theory of natural selection issued a profound challenge to orthodox thought and belief: no being or species has been specifically created; all are locked into a pitiless struggle for existence, with extinction looming for those not fitted for the task. Yet The Origin of Species (1859) is also a humane and inspirational vision of ecological interrelatedness, revealing the complex mutual interdependencies between animal and plant life, climate and physical environment, and—by implication—within the human world. Written for the general reader, in a style which combines the rigour of scie",
+        "idioma": "English",
+        "isbn": "9780785819110",
+        "paginas": 703,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298417570l/22463.jpg",
+        "precio": "5.58",
+        "puntuacion_bbe": 26616,
+        "votos_bbe": 365,
+        "resenas": 99334,
+        "aprobacion": 90,
+        "autor": "charles-darwin",
+        "editorial": "castle-books",
+        "genero": "ciencia"
+      }
+    },
+    {
+      "slug": "the-shack",
+      "title": "The Shack",
+      "data": {
+        "num": 251,
+        "titulo": "The Shack",
+        "serie": "",
+        "calificacion": 3.78,
+        "descripcion": "The Shack, the cherished novel that sold over 23 million copies worldwide, spent 147 weeks on the bestseller list, and went on to become a major motion picture, is now available in a beautiful keepsake edition to celebrate its tenth anniversary of touching lives all over the world. Mackenzie Allen Phillips's youngest daughter, Missy, has been abducted during a family vacation, and evidence that she may have been brutally murdered is found in an abandoned shack deep in the Oregon wilderness. Four years later, in the midst of his Great Sadness, Mack receives a suspicious note, apparently from Go",
+        "idioma": "English",
+        "isbn": "B001B8Z2S0",
+        "paginas": 294,
+        "anio": 0,
+        "premios": "LovelyBooks Leserpreis Nominee for Allgemeine Literatur (2009)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532013572l/40874325._SY475_.jpg",
+        "precio": "",
+        "puntuacion_bbe": 52267,
+        "votos_bbe": 622,
+        "resenas": 538472,
+        "aprobacion": 83,
+        "autor": "william-paul-young",
+        "editorial": "windblown-media",
+        "genero": "filosofia-religion"
+      }
+    },
+    {
+      "slug": "sophie-s-world",
+      "title": "Sophie's World",
+      "data": {
+        "num": 307,
+        "titulo": "Sophie's World",
+        "serie": "",
+        "calificacion": 3.93,
+        "descripcion": "An alternative cover for this ISBN can be found hereOne day fourteen-year-old Sophie Amundsen comes home from school to find in her mailbox two notes, with one question on each: \"Who are you?\" and \"Where does the world come from?\" From that irresistible beginning, Sophie becomes obsessed with questions that take her far beyond what she knows of her Norwegian village. Through those letters, she enrolls in a kind of correspondence course, covering Socrates to Sartre, with a mysterious philosopher, while receiving letters addressed to another girl. Who is Hilde? And why does her mail keep turning",
+        "idioma": "English",
+        "isbn": "9781857993288",
+        "paginas": 403,
+        "anio": 0,
+        "premios": "Buxtehuder Bulle (1996); Premio Bancarella (1995); Deutscher Jugendliteraturpreis for Jugendbuch (1994); Prix des libraires du Québec for Lauréats hors Québec (1996)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343459906l/10959.jpg",
+        "precio": "3.43",
+        "puntuacion_bbe": 41017,
+        "votos_bbe": 497,
+        "resenas": 200234,
+        "aprobacion": 91,
+        "autor": "jostein-gaarder",
+        "editorial": "phoenix",
+        "genero": "filosofia-religion"
+      }
+    },
+    {
+      "slug": "schindler-s-list",
+      "title": "Schindler's List",
+      "data": {
+        "num": 208,
+        "titulo": "Schindler's List",
+        "serie": "",
+        "calificacion": 4.34,
+        "descripcion": "In the shadow of Auschwitz, a flamboyant German industrialist grew into a living legend to the Jews of Cracow. He was a womaniser, a heavy drinker and a bon viveur, but to them he became a saviour. This is the extraordinary story of Oskar Schindler, who risked his life to protect Jews in Nazi-occupied Poland and who was transformed by the war into a man with a mission, a compassionate angel of mercy.",
+        "idioma": "English",
+        "isbn": "9780340606513",
+        "paginas": 429,
+        "anio": 0,
+        "premios": "Booker Prize (1982); Los Angeles Times Book Prize for Fiction (1983)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348163457l/375013.jpg",
+        "precio": "0.85",
+        "puntuacion_bbe": 67007,
+        "votos_bbe": 883,
+        "resenas": 144236,
+        "aprobacion": 96,
+        "autor": "thomas-keneally",
+        "editorial": "sceptre",
+        "genero": "historia"
+      }
+    },
+    {
+      "slug": "blood-river-a-journey-to-africa-s-broken-heart",
+      "title": "Blood River: A Journey to Africa's Broken Heart",
+      "data": {
+        "num": 290,
+        "titulo": "Blood River: A Journey to Africa's Broken Heart",
+        "serie": "",
+        "calificacion": 4.06,
+        "descripcion": "A compulsively readable account of a journey to the Congo — a country virtually inaccessible to the outside world — vividly told by a daring and adventurous journalist.Ever since Stanley first charted its mighty river in the 1870s, the Congo has epitomized the dark and turbulent history of a failed continent. However, its troubles only served to increase the interest of Daily Telegraph correspondent Tim Butcher, who was sent to cover Africa in 2000. Before long he became obsessed with the idea of recreating Stanley’s original expedition — but travelling alone.Despite warnings Butcher spent yea",
+        "idioma": "English",
+        "isbn": "9780099494287",
+        "paginas": 363,
+        "anio": 0,
+        "premios": "Ryszard Kapuściński Prize Nominee (2009); Samuel Johnson Prize for Non-Fiction Nominee (2008); Stanford Dolman Travel Book of the Year Nominee (2008)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531681288l/2184798._SY475_.jpg",
+        "precio": "2.76",
+        "puntuacion_bbe": 43628,
+        "votos_bbe": 440,
+        "resenas": 7554,
+        "aprobacion": 95,
+        "autor": "tim-butcher",
+        "editorial": "vintage",
+        "genero": "historia"
+      }
+    },
+    {
+      "slug": "watchmen",
+      "title": "Watchmen",
+      "data": {
+        "num": 141,
+        "titulo": "Watchmen",
+        "serie": "Watchmen #1-12",
+        "calificacion": 4.36,
+        "descripcion": "This Hugo Award-winning graphic novel chronicles the fall from grace of a group of super-heroes plagued by all-too-human failings. Along the way, the concept of the super-hero is dissected as the heroes are stalked by an unknown assassin.One of the most influential graphic novels of all time and a perennial best-seller, Watchmen has been studied on college campuses across the nation and is considered a gateway title, leading readers to other graphic novels such as V for Vendetta, Batman: The Dark Knight Returns and The Sandman series.",
+        "idioma": "English",
+        "isbn": "9780930289232",
+        "paginas": 416,
+        "anio": 0,
+        "premios": "Hugo Award for Other Forms (1988); Locus Award for Best Non-Fiction/Art (1988); Harvey Awards for Best Writer (for Alan Moore), Best Artist or Penciller (for Dave Gibbons), Best Continuing or Limited Series, Best Single Issue (\"Watchmen #9\"), Best Graphic Album, Best Colorist (for John Higgins) & Special Award for Excellence in Production  (1988); Prix du Festival d'Angoulême for Alph-art du meilleur album étranger (1989)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442239711l/472331.jpg",
+        "precio": "4.85",
+        "puntuacion_bbe": 116722,
+        "votos_bbe": 1322,
+        "resenas": 487212,
+        "aprobacion": 96,
+        "autor": "alan-moore",
+        "editorial": "dc-comics",
+        "genero": "comics"
+      }
+    },
+    {
+      "slug": "the-complete-calvin-and-hobbes",
+      "title": "The Complete Calvin and Hobbes",
+      "data": {
+        "num": 257,
+        "titulo": "The Complete Calvin and Hobbes",
+        "serie": "Calvin and Hobbes",
+        "calificacion": 4.82,
+        "descripcion": "[ Box Set | Book One | Book Two | Book Three ]Calvin and Hobbes is unquestionably one of the most popular comic strips of all time. The imaginative world of a boy and his real-only-to-him tiger was first syndicated in 1985 and appeared in more than 2,400 newspapers when Bill Watterson retired on January 1, 1996. The entire body of Calvin and Hobbes cartoons published in a truly noteworthy tribute to this singular cartoon in The Complete Calvin and Hobbes. Composed of three hardcover, four-color volumes in a sturdy slipcase, this New York Times best-selling edition includes all Calvin and Hobbe",
+        "idioma": "English",
+        "isbn": "9780740748479",
+        "paginas": 1456,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473064526l/24812._SX318_.jpg",
+        "precio": "110.67",
+        "puntuacion_bbe": 50709,
+        "votos_bbe": 632,
+        "resenas": 34893,
+        "aprobacion": 99,
+        "autor": "bill-watterson",
+        "editorial": "andrews-mcmeel-publishing",
+        "genero": "comics"
+      }
+    },
+    {
+      "slug": "the-giving-tree",
+      "title": "The Giving Tree",
+      "data": {
+        "num": 13,
+        "titulo": "The Giving Tree",
+        "serie": "",
+        "calificacion": 4.37,
+        "descripcion": "\"Once there was a tree...and she loved a little boy.\"So begins a story of unforgettable perception, beautifully written and illustrated by the gifted and versatile Shel Silverstein.Every day the boy would come to the tree to eat her apples, swing from her branches, or slide down her trunk...and the tree was happy. But as the boy grew older he began to want more from the tree, and the tree gave and gave and gave.This is a tender story, touched with sadness, aglow with consolation. Shel Silverstein has created a moving parable for readers of all ages that offers an affecting interpretation of th",
+        "idioma": "English",
+        "isbn": "9780060256654",
+        "paginas": 64,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174210942l/370493._SX318_.jpg",
+        "precio": "4.87",
+        "puntuacion_bbe": 1021534,
+        "votos_bbe": 10594,
+        "resenas": 905731,
+        "aprobacion": 94,
+        "autor": "shel-silverstein",
+        "editorial": "harpercollins-publishers",
+        "genero": "infantil"
+      }
+    },
+    {
+      "slug": "where-the-wild-things-are",
+      "title": "Where the Wild Things Are",
+      "data": {
+        "num": 51,
+        "titulo": "Where the Wild Things Are",
+        "serie": "",
+        "calificacion": 4.22,
+        "descripcion": "Max, a wild and naughty boy, is sent to bed without his supper by his exhausted mother. In his room, he imagines sailing far away to a land of Wild Things. Instead of eating him, the Wild Things make Max their king.",
+        "idioma": "English",
+        "isbn": "9780099408390",
+        "paginas": 37,
+        "anio": 0,
+        "premios": "Caldecott Medal (1964); Lewis Carroll Shelf Award; Indies Choice Book Award for Picture Book Hall of Fame (2009)",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384434560l/19543.jpg",
+        "precio": "3.67",
+        "puntuacion_bbe": 502762,
+        "votos_bbe": 5479,
+        "resenas": 816934,
+        "aprobacion": 93,
+        "autor": "maurice-sendak",
+        "editorial": "red-fox",
+        "genero": "infantil"
+      }
+    },
+    {
+      "slug": "the-compleat-works-of-wllm-shkspr-abridged",
+      "title": "The Compleat Works of Wllm Shkspr (abridged)",
+      "data": {
+        "num": 149,
+        "titulo": "The Compleat Works of Wllm Shkspr (abridged)",
+        "serie": "",
+        "calificacion": 4.44,
+        "descripcion": "Revised from the rather long original complete works of Shakespeare, this abridged version is written by three Americans, with no qualifications worth speaking of. The playtext is reproduced here with footnotes which will be of no help to anyone and a letter from the authors to the Queen.",
+        "idioma": "English",
+        "isbn": "9781557831576",
+        "paginas": 137,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347579233l/1423.jpg",
+        "precio": "3.17",
+        "puntuacion_bbe": 107374,
+        "votos_bbe": 1233,
+        "resenas": 8439,
+        "aprobacion": 96,
+        "autor": "reduced-shakespeare-company",
+        "editorial": "applause-books",
+        "genero": "poesia-teatro"
+      }
+    },
+    {
+      "slug": "the-prophet",
+      "title": "The Prophet",
+      "data": {
+        "num": 174,
+        "titulo": "The Prophet",
+        "serie": "",
+        "calificacion": 4.22,
+        "descripcion": "Kahlil Gibran’s masterpiece, The Prophet, is one of the most beloved classics of our time. Published in 1923, it has been translated into more than twenty languages, and the American editions alone have sold more than nine million copies.The Prophet is a collection of poetic essays that are philosophical, spiritual, and, above all, inspirational. Gibran’s musings are divided into twenty-eight chapters covering such sprawling topics as love, marriage, children, giving, eating and drinking, work, joy and sorrow, housing, clothes, buying and selling, crime and punishment, laws, freedom, reason an",
+        "idioma": "English",
+        "isbn": "9780001000391",
+        "paginas": 127,
+        "anio": 0,
+        "premios": "",
+        "portada": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355046521l/2547.jpg",
+        "precio": "5.8",
+        "puntuacion_bbe": 86743,
+        "votos_bbe": 1045,
+        "resenas": 234894,
+        "aprobacion": 94,
+        "autor": "kahlil-gibran",
+        "editorial": "rupa-co",
+        "genero": "poesia-teatro"
+      }
+    }
+  ]
+}
