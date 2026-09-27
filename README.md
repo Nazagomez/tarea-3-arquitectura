@@ -9,9 +9,7 @@ Sitio Nuxt adaptado desde el proyecto 1 para leer el contenido publicado en el C
 
 ## URL de Netlify
 
-https://best-books-ever-comet.netlify.app/
-
-> Reemplace esta URL por la que Netlify asigne al publicar el repositorio.
+https://tarea-3-arquitectura.netlify.app/
 
 ## Cómo se conecta con Comet CMS
 
